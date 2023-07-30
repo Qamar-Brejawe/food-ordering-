@@ -25,6 +25,7 @@ Future<void> main() async {
   );
 
   Get.put(SharedPrefranceRepository());
+
   Get.put(CartService());
   Get.put(LocationService());
   Get.put(ConnectivityService());
