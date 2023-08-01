@@ -1,34 +1,113 @@
 {
   "project_info": {
-    "project_number": "233042349584",
-    "project_id": "sp2-food-ordering-3f090",
-    "storage_bucket": "sp2-food-ordering-3f090.appspot.com"
+    "project_number": "849302946090",
+    "project_id": "food-ordering-darrebni",
+    "storage_bucket": "food-ordering-darrebni.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:233042349584:android:101cf55208658321894495",
+        "mobilesdk_app_id": "1:849302946090:android:716a5cf1ac875d70cd5e53",
         "android_client_info": {
-          "package_name": "com.example.food_ordering"
+          "package_name": "com.example.food_order"
         }
       },
       "oauth_client": [
         {
-          "client_id": "233042349584-2v4bpp9hn0o8goah8c4ufbn8l6fa2c1d.apps.googleusercontent.com",
+          "client_id": "849302946090-03mq0g8bcmt6mpv4edffah6vn44jbopr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD-yXwU5eQCBuvo0aWD1OvWYKTKbr7MGaM"
+          "current_key": "AIzaSyAduh82hrWVODFbh3VBmjS-VTqryW6di4o"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "233042349584-2v4bpp9hn0o8goah8c4ufbn8l6fa2c1d.apps.googleusercontent.com",
+              "client_id": "849302946090-03mq0g8bcmt6mpv4edffah6vn44jbopr.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "849302946090-phdo7637iutn2lmdenjlia4kup9fkogt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodOrder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849302946090:android:31f6204fb799cd35cd5e53",
+        "android_client_info": {
+          "package_name": "com.example.food_ordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849302946090-03mq0g8bcmt6mpv4edffah6vn44jbopr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAduh82hrWVODFbh3VBmjS-VTqryW6di4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849302946090-03mq0g8bcmt6mpv4edffah6vn44jbopr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849302946090-phdo7637iutn2lmdenjlia4kup9fkogt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodOrder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849302946090:android:4d32110e704db1d0cd5e53",
+        "android_client_info": {
+          "package_name": "com.example.meal_monkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849302946090-03mq0g8bcmt6mpv4edffah6vn44jbopr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAduh82hrWVODFbh3VBmjS-VTqryW6di4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849302946090-03mq0g8bcmt6mpv4edffah6vn44jbopr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849302946090-phdo7637iutn2lmdenjlia4kup9fkogt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodOrder"
+              }
             }
           ]
         }

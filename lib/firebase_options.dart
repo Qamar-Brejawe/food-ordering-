@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD-yXwU5eQCBuvo0aWD1OvWYKTKbr7MGaM',
-    appId: '1:233042349584:android:101cf55208658321894495',
-    messagingSenderId: '233042349584',
-    projectId: 'sp2-food-ordering-3f090',
-    storageBucket: 'sp2-food-ordering-3f090.appspot.com',
+    apiKey: 'AIzaSyAduh82hrWVODFbh3VBmjS-VTqryW6di4o',
+    appId: '1:849302946090:android:31f6204fb799cd35cd5e53',
+    messagingSenderId: '849302946090',
+    projectId: 'food-ordering-darrebni',
+    storageBucket: 'food-ordering-darrebni.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC0fhAodRE1xpcNDgFJL7wyjTdreNATCro',
-    appId: '1:233042349584:ios:0da397db234ea4c4894495',
-    messagingSenderId: '233042349584',
-    projectId: 'sp2-food-ordering-3f090',
-    storageBucket: 'sp2-food-ordering-3f090.appspot.com',
-    iosClientId: '233042349584-g23131bpmjh02sdf752blinrdfebar3h.apps.googleusercontent.com',
+    apiKey: 'AIzaSyD2DCjYcVAiUJFV-9_4D4gtSObQLLQynyM',
+    appId: '1:849302946090:ios:85130da2597554c5cd5e53',
+    messagingSenderId: '849302946090',
+    projectId: 'food-ordering-darrebni',
+    storageBucket: 'food-ordering-darrebni.appspot.com',
+    iosClientId: '849302946090-51bmjbhiaqrn1uk9nvsfnalo5dl0718m.apps.googleusercontent.com',
     iosBundleId: 'com.example.foodOrdering',
   );
 }
