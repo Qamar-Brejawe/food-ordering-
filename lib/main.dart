@@ -24,6 +24,7 @@ Future<void> main() async {
     },
   );
 
+//qamar
   Get.put(SharedPrefranceRepository());
 
   Get.put(CartService());
